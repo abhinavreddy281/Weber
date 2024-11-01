@@ -1,0 +1,147 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: Humane;
+    src: url(./assets/fonts/Humane-Regular.woff2);
+}
+
+@font-face {
+    font-family: HumaneBold;
+    src: url(./assets/fonts/Humane-SemiBold.woff2);
+}
+
+@font-face {
+    font-family: SCHABO;
+    src: url(./assets/fonts/SCHABO-Condensed.woff);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    overflow-x: hidden;
+}
+
+.container {
+    width: 400vw;
+    height: 100vh;
+    display: flex;
+    margin: 0;
+  }
+  
+  .firstContainer {
+    height: 100vh;
+    /* background: yellow; */
+  }
+  
+  .lastContainer {
+    height: 100vh;
+    background: yellow;
+  }
+  
+  .panel {
+    width: 100vw;
+    height: 100vh;
+    flex-shrink: 0;
+  }
+
+  #slide1 {
+    display: flex;
+  }
+  
+  #slide1 #left {
+    width: 75%;
+  }
+  
+  #slide1 #left h1 {
+    margin-left: 3vw;
+    margin-top: 8vw;
+  }
+  
+  #slide1 #right {
+    width: 25%;
+    border-left: 2px solid #A2A2A2;
+    color: #A2A2A2;
+  }
+  
+  #slide1 #right #work {
+    width: 90%;
+  }
+
+  #slide2 {
+    display: flex;
+  }
+  
+  #slide2 #left {
+    width: 74.19%;
+  }
+  
+  #slide2 #left h1 {
+    width:85%;
+    margin-left: 3vw;
+    margin-top: 6vw;
+  }
+  
+  #slide2 #right {
+    width: 25%;
+    border-left: 2px solid #A2A2A2;
+    color: #A2A2A2;
+  }
+  
+  #slide2 #right #work {
+    width: 90%;
+  }
+  
+  @keyframes marquee {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+  
+  .animate-marquee {
+    animation: marquee 105s linear infinite;
+  }
+  
+  .circle1 {
+    animation-name: anime1;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes anime1 {
+    from {
+      transform: translate(-4%,-5%);
+    }
+    to {
+      transform: translate(4%,5%);
+    }
+  }
+  
+  .circle2 {
+    animation-name: anime2;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes anime2 {
+    from {
+      transform: translate(4%,-5%);
+    }
+    to {
+      transform: translate(-4%,5%);
+    }
+  } 
+  
