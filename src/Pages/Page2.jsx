@@ -11,7 +11,7 @@ gsap.registerPlugin(ScrollTrigger);
 
 function Page2() {
 
-    const component = useRef();
+  const component = useRef();
   const slider = useRef();
 
   useLayoutEffect(() => {
@@ -35,27 +35,28 @@ function Page2() {
 
   return (
     <div className="App" ref={component}>
-        <div className="firstContainer">
+        <div className="firstContainer ">
            <Slide1 />
         </div>
         <div ref={slider} className="container text-white bg-black ">
-            <div className=" panel blue relative z-30 ">
+            <div className=" panel relative z-30 ">
                 <div >
                     <Slide2 />
                 </div>
             </div>
-            <div className="panel red">
+            <div className="panel red ">
                   <Slide3 />
             </div>
             <div className="panel ">
               <Slide4 />
             </div>
-            <div className="panel">
+            <div className="panel ">
               <Slide5 />
             </div>
         </div>
-        <div className="lastContainer">Last Container</div>
-  </div>
+        {/* <div className="lastContainer">Last Container</div> */}
+    </div>
+   
   )
 }
 

@@ -9,7 +9,7 @@ function Slide3() {
       <div className=" w-full h-full flex flex-col " >
           <div className=" w-[1550vw] h-[20vh] border-b-2 flex items-center whitespace-nowrap animate-marquee bg-transparent ">
               <div className="text-[6vw] font-Interphases font-[700] tracking-wide items-center flex gap-[2vw] text-white w-full h-full ">
-                    <div className=' ' >Rapid iD intelligent software </div>
+                    <div >Weber Motors software </div>
                     <div className="move w-[6vw] h-[6vw] relative " >
                       <div className="circle1 w-full h-full absolute rounded-full bg-red-600 " ></div>
                       <div className="circle2  w-full h-full absolute rounded-full bg-red-600 " ></div>
@@ -19,27 +19,12 @@ function Slide3() {
                       <div className="circle1 w-full h-full absolute rounded-full bg-red-600 " ></div>
                       <div className="circle2  w-full h-full absolute rounded-full bg-red-600 " ></div>
                     </div> 
-                    <div >24/7 service and support </div> 
+                    <div >Compact and reliable hardware </div> 
                     <div className="move w-[6vw] h-[6vw] relative " >
                       <div className="circle1 w-full h-full absolute rounded-full bg-red-600 " ></div>
                       <div className="circle2  w-full h-full absolute rounded-full bg-red-600 " ></div>
                     </div> 
-                    <div className=' ' >Rapid iD intelligent software </div>
-                    <div className="move w-[6vw] h-[6vw] relative " >
-                      <div className="circle1 w-full h-full absolute rounded-full bg-red-600 " ></div>
-                      <div className="circle2  w-full h-full absolute rounded-full bg-red-600 " ></div>
-                    </div>
-                    <div >24/7 service and support </div> 
-                    <div className="move w-[6vw] h-[6vw] relative " >
-                      <div className="circle1 w-full h-full absolute rounded-full bg-red-600 " ></div>
-                      <div className="circle2  w-full h-full absolute rounded-full bg-red-600 " ></div>
-                    </div>
-                    <div >24/7 service and support </div> 
-                    <div className="move w-[6vw] h-[6vw] relative " >
-                      <div className="circle1 w-full h-full absolute rounded-full bg-red-600 " ></div>
-                      <div className="circle2  w-full h-full absolute rounded-full bg-red-600 " ></div>
-                    </div> 
-                    <div className=' ' >Rapid iD intelligent software </div>
+                    <div >Weber Motors software </div>
                     <div className="move w-[6vw] h-[6vw] relative " >
                       <div className="circle1 w-full h-full absolute rounded-full bg-red-600 " ></div>
                       <div className="circle2  w-full h-full absolute rounded-full bg-red-600 " ></div>
@@ -49,12 +34,12 @@ function Slide3() {
                       <div className="circle1 w-full h-full absolute rounded-full bg-red-600 " ></div>
                       <div className="circle2  w-full h-full absolute rounded-full bg-red-600 " ></div>
                     </div> 
-                    <div >24/7 service and support </div> 
+                    <div >Compact and reliable hardware </div> 
                     <div className="move w-[6vw] h-[6vw] relative " >
                       <div className="circle1 w-full h-full absolute rounded-full bg-red-600 " ></div>
                       <div className="circle2  w-full h-full absolute rounded-full bg-red-600 " ></div>
                     </div> 
-                    <div className=' ' >Rapid iD intelligent software </div>
+                    <div >Weber Motors software </div>
                     <div className="move w-[6vw] h-[6vw] relative " >
                       <div className="circle1 w-full h-full absolute rounded-full bg-red-600 " ></div>
                       <div className="circle2  w-full h-full absolute rounded-full bg-red-600 " ></div>
@@ -64,12 +49,12 @@ function Slide3() {
                       <div className="circle1 w-full h-full absolute rounded-full bg-red-600 " ></div>
                       <div className="circle2  w-full h-full absolute rounded-full bg-red-600 " ></div>
                     </div> 
-                    <div >24/7 service and support </div> 
+                    <div >Compact and reliable hardware </div> 
                     <div className="move w-[6vw] h-[6vw] relative " >
                       <div className="circle1 w-full h-full absolute rounded-full bg-red-600 " ></div>
                       <div className="circle2  w-full h-full absolute rounded-full bg-red-600 " ></div>
                     </div> 
-                    <div className=' ' >Rapid iD intelligent software </div>
+                    <div >Weber Motors software </div>
                     <div className="move w-[6vw] h-[6vw] relative " >
                       <div className="circle1 w-full h-full absolute rounded-full bg-red-600 " ></div>
                       <div className="circle2  w-full h-full absolute rounded-full bg-red-600 " ></div>
@@ -79,7 +64,26 @@ function Slide3() {
                       <div className="circle1 w-full h-full absolute rounded-full bg-red-600 " ></div>
                       <div className="circle2  w-full h-full absolute rounded-full bg-red-600 " ></div>
                     </div> 
+                    <div >Compact and reliable hardware </div> 
+                    <div className="move w-[6vw] h-[6vw] relative " >
+                      <div className="circle1 w-full h-full absolute rounded-full bg-red-600 " ></div>
+                      <div className="circle2  w-full h-full absolute rounded-full bg-red-600 " ></div>
+                    </div> 
+                    <div >Weber Motors software </div>
+                    <div className="move w-[6vw] h-[6vw] relative " >
+                      <div className="circle1 w-full h-full absolute rounded-full bg-red-600 " ></div>
+                      <div className="circle2  w-full h-full absolute rounded-full bg-red-600 " ></div>
+                    </div>
                     <div >24/7 service and support </div> 
+                    <div className="move w-[6vw] h-[6vw] relative " >
+                      <div className="circle1 w-full h-full absolute rounded-full bg-red-600 " ></div>
+                      <div className="circle2  w-full h-full absolute rounded-full bg-red-600 " ></div>
+                    </div> 
+                    <div >Compact and reliable hardware </div> 
+                    <div className="move w-[6vw] h-[6vw] relative " >
+                      <div className="circle1 w-full h-full absolute rounded-full bg-red-600 " ></div>
+                      <div className="circle2  w-full h-full absolute rounded-full bg-red-600 " ></div>
+                    </div> 
               </div>
           </div>
           <div className=" w-full h-[80vh] flex pl-[2vw] " >
@@ -105,7 +109,7 @@ function Slide3() {
                   </div>
               </div>
               <div className="right w-[35vw] h-full flex items-center justify-center  " >
-                <div className=" w-[80%] h-[90%] relative " >
+                <div className=" w-[90%] h-[85%] relative image-container " >
                     <img src={R1} alt=" Image Here " className=" w-full h-full absolute " /> 
                 </div>
               </div>
